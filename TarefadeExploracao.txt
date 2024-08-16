@@ -1,0 +1,16 @@
+DESENVOLVIMENTO WEB
+Git: https://git-scm.com/
+Tem relação com os topicos:
+- 4,14,13
+
+Python: https://www.python.org/
+Tem relação com os topicos:
+- 4,10,11
+
+Sqlitebrowse: https://sqlitebrowser.org/
+Tem relação com os topicos:
+- 2,3,8,12,13
+
+VsCode: 
+Tem relação com os topicos: https://code.visualstudio.com/
+- 5,6,7,10,11,1
